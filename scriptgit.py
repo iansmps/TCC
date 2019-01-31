@@ -13,6 +13,13 @@ import math
 import csv
 from collections import deque
 
-command = ['git','add', ,  '~/TCC/arquivo1']
+command = ['git','add','-A']
 subprocess.call(command)
+
+command2 = ['git','commit','-m','"logss"']
+subprocess.call(command2)
+
+command3 = ['git','push','-u', 'origin','master']
+subprocess.call(command3)
+
 

@@ -1,4 +1,4 @@
-      time	    R type	R totalops	  R op/s	  R pk/s	 R row/s	  R mean	   R med	   R ,95	   R .99	  R .999	   R max	 R stderr	    W type	W totalops	  W op/s	  W pk/s	 W row/s	  W mean	   W med	   W .95	   W .99	  W .999	   W max	 W stderr
+     time	    R type	R totalops	  R op/s	  R pk/s	 R row/s	  R mean	   R med	   R ,95	   R .99	  R .999	   R max	 R stderr	    W type	W totalops	  W op/s	  W pk/s	 W row/s	  W mean	   W med	   W .95	   W .99	  W .999	   W max	 W stderr
 1549571950	     WRITE	535	535	535	535	8,3	     6.2	21,1	    49.6	    71.3	    76.2	  0.00000	      READ	484	484	484	484	     9.4	     6.4	    26.7	    54.1	    93.1	    93.1	  0.00000
 1549571951	     WRITE	1414	879	879	879	5	     2.7	12,1	    52.5	    68.6	    73.3	  0.18643	      READ	1392	908	908	908	     5.6	     3.1	    12.7	    59.5	    65.7	    68.0	  0.18643
 1549571952	     WRITE	3455	2041	2041	2041	2,6	     1.4	6,4	    34.4	    69.0	    81.2	  0.31113	      READ	3210	1818	1818	1818	     2.7	     1.6	     7.0	    15.6	    72.3	    76.7	  0.31113

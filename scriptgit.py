@@ -16,7 +16,7 @@ from collections import deque
 command = ['git','add','-A']
 subprocess.call(command)
 
-command2 = ['git','commit','-m','"logs 20/03"']
+command2 = ['git','commit','-m','"logs 03/04"']
 subprocess.call(command2)
 
 command3 = ['git','push','-u', 'origin','master']
